@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on distributed systems, data caching, data compression, data reduction techniques
 - 📫 How to reach me: sreek012 at umn dot edu
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: ...
+- 💡I am currently in the process of porting the code from my person github repo to this one. The code tags will appear on the website after it is completed.
 
 <!---
 nsreekum/nsreekum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
